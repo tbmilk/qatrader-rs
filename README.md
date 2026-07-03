@@ -1,3 +1,10 @@
+> **[已退役 / SUPERSEDED]** 本仓库已被 [QUANTAXIS/qapro-rs](https://github.com/yutiansut/QUANTAXIS) 的 `qatrader` bin 取代（2026-07-02）。
+> 当前仓库归档保留，不再主动维护。新开发请使用 `QUANTAXIS/qapro-rs` + `bin/qatrader`。
+> 
+> *This repository has been superseded by the `qatrader` binary in QUANTAXIS/qapro-rs (2026-07-02).*
+
+---
+
 # QATRADER-RS
 
 QATRADER-RS is a high-performance trading order management and execution system written in Rust. It serves as the core trading engine in the QAUTLRA ecosystem, handling order routing, execution, risk management, and position tracking.
